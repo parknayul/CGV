@@ -15,6 +15,7 @@
 body {
     line-height: 1;
     font-family: 'Noto Sans KR', sans-serif;
+    min-width: 1903px; /* 컨테이너 크기 */
 }
 
 a {
